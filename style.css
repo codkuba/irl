@@ -1,0 +1,115 @@
+
+html{
+    scroll-behavior: smooth;
+}
+
+.all{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.gura{
+    width: 610px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: 5px;
+}
+.tittle{
+    width: 610px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200px;
+}
+.podpod{
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(142, 201, 15);
+    margin: 5px;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+.podtit{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    flex-direction: row;
+}
+.lewo{
+    width: 200px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(97, 251, 99);
+    margin: 5px;
+    border-radius: 20px;
+    flex-direction: column;
+    border: 4px solid black;
+}
+.kloc{
+    width: 160px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(162, 162, 213);
+    margin: 15px;
+    border-radius: 20px;
+    border: 4px solid black;
+
+}
+.kloc:hover{
+    transform: scale(105%);
+}
+
+.srodek{
+    width: 900px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(127, 250, 129);
+    margin: 5px;
+    border-radius: 20px;
+    border: 3px solid black;
+    text-align: center;
+}
+.srodek1{
+    width: 900px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(127, 250, 129);
+    margin: 5px;
+    border-radius: 20px;
+    border: 3px solid black;
+}
+.prawo{
+    width: 200px;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(97, 251, 99);
+    margin: 5px;
+    border-radius: 20px;
+    border: 4px solid black;
+    text-align: center;
+}
